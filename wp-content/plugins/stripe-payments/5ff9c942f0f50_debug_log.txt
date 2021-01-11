@@ -1,0 +1,132 @@
+[01/09/2021 3:18:26 PM] - FAILURE: L’erreur suivante est apparue pendant le traitement du paiement : Stripe API error occurred: Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.
+[01/09/2021 3:18:27 PM] - Error email sent to arenas.joan@hotmail.fr, from email address used: arenas.joan@hotmail.fr
+[01/09/2021 3:20:13 PM] - Payment processing started.
+[01/09/2021 3:20:13 PM] - Got product ID: 64
+[01/09/2021 3:20:13 PM] - Firing asp_ng_process_ipn_product_item_override filter.
+[01/09/2021 3:20:13 PM] - Firing asp_ng_process_ipn_payment_data_item_override filter.
+[01/09/2021 3:20:14 PM] - The transaction ID of this notification is: ch_1I7jEeLROvLnDaPIVFQPEcdv
+[01/09/2021 3:20:14 PM] - Constructing checkout result and order data.
+[01/09/2021 3:20:14 PM] - Firing asp_ng_payment_completed filter.
+[01/09/2021 3:20:14 PM] - Firing asp_ng_payment_completed_update_pi filter.
+[01/09/2021 3:20:14 PM] - Firing asp_stripe_payment_completed action.
+[01/09/2021 3:20:14 PM] - Notification email sent to buyer: kofi@hotmail.com, from email address used:  <sales@your-domain.com>
+[01/09/2021 3:20:14 PM] - Payment has been processed successfully.
+[01/09/2021 3:20:14 PM] - Redirecting to results page "http://localhost/garage-rdv/stripe-checkout-result/"
+
+[01/09/2021 3:34:32 PM] - Payment processing started.
+[01/09/2021 3:34:32 PM] - Got product ID: 64
+[01/09/2021 3:34:32 PM] - Firing asp_ng_process_ipn_product_item_override filter.
+[01/09/2021 3:34:32 PM] - Firing asp_ng_process_ipn_payment_data_item_override filter.
+[01/09/2021 3:34:33 PM] - The transaction ID of this notification is: ch_1I7jSVLROvLnDaPIjNSFZAoN
+[01/09/2021 3:34:33 PM] - Constructing checkout result and order data.
+[01/09/2021 3:34:33 PM] - Firing asp_ng_payment_completed filter.
+[01/09/2021 3:34:33 PM] - Firing asp_ng_payment_completed_update_pi filter.
+[01/09/2021 3:34:33 PM] - Firing asp_stripe_payment_completed action.
+[01/09/2021 3:34:33 PM] - Notification email sent to buyer: kofi@hotmail.com, from email address used:  <sales@your-domain.com>
+[01/09/2021 3:34:33 PM] - Payment has been processed successfully.
+[01/09/2021 3:34:33 PM] - Redirecting to results page "http://localhost/garage-rdv/stripe-checkout-result/"
+
+[01/09/2021 3:43:45 PM] - Payment processing started.
+[01/09/2021 3:43:45 PM] - Got product ID: 64
+[01/09/2021 3:43:45 PM] - Firing asp_ng_process_ipn_product_item_override filter.
+[01/09/2021 3:43:45 PM] - Firing asp_ng_process_ipn_payment_data_item_override filter.
+[01/09/2021 3:43:46 PM] - The transaction ID of this notification is: ch_1I7jbQLROvLnDaPId7wZ62yg
+[01/09/2021 3:43:46 PM] - Constructing checkout result and order data.
+[01/09/2021 3:43:46 PM] - Firing asp_ng_payment_completed filter.
+[01/09/2021 3:43:46 PM] - Firing asp_ng_payment_completed_update_pi filter.
+[01/09/2021 3:43:46 PM] - Firing asp_stripe_payment_completed action.
+[01/09/2021 3:43:46 PM] - Notification email sent to buyer: kofi@hotmail.com, from email address used:  <sales@your-domain.com>
+[01/09/2021 3:43:46 PM] - Payment has been processed successfully.
+[01/09/2021 3:43:46 PM] - Redirecting to results page "http://localhost/garage-rdv/stripe-checkout-result/"
+
+[01/09/2021 4:00:06 PM] - Payment processing started.
+[01/09/2021 4:00:06 PM] - Got product ID: 64
+[01/09/2021 4:00:06 PM] - Firing asp_ng_process_ipn_product_item_override filter.
+[01/09/2021 4:00:06 PM] - Firing asp_ng_process_ipn_payment_data_item_override filter.
+[01/09/2021 4:00:06 PM] - The transaction ID of this notification is: ch_1I7jrELROvLnDaPIy9fqphDj
+[01/09/2021 4:00:06 PM] - Constructing checkout result and order data.
+[01/09/2021 4:00:06 PM] - Firing asp_ng_payment_completed filter.
+[01/09/2021 4:00:06 PM] - Firing asp_ng_payment_completed_update_pi filter.
+[01/09/2021 4:00:06 PM] - Firing asp_stripe_payment_completed action.
+[01/09/2021 4:00:07 PM] - Notification email sent to buyer: zk@mail.com, from email address used:  <sales@your-domain.com>
+[01/09/2021 4:00:07 PM] - Payment has been processed successfully.
+[01/09/2021 4:00:07 PM] - Redirecting to results page "http://localhost/garage-rdv/stripe-checkout-result/"
+
+[01/09/2021 4:06:19 PM] - Payment processing started.
+[01/09/2021 4:06:19 PM] - Got product ID: 64
+[01/09/2021 4:06:19 PM] - Firing asp_ng_process_ipn_product_item_override filter.
+[01/09/2021 4:06:19 PM] - Firing asp_ng_process_ipn_payment_data_item_override filter.
+[01/09/2021 4:06:20 PM] - The transaction ID of this notification is: ch_1I7jxGLROvLnDaPI4Z0HB8UE
+[01/09/2021 4:06:20 PM] - Constructing checkout result and order data.
+[01/09/2021 4:06:20 PM] - Firing asp_ng_payment_completed filter.
+[01/09/2021 4:06:20 PM] - Firing asp_ng_payment_completed_update_pi filter.
+[01/09/2021 4:06:20 PM] - Firing asp_stripe_payment_completed action.
+[01/09/2021 4:06:20 PM] - Notification email sent to buyer: kofi@hotmail.com, from email address used:  <sales@your-domain.com>
+[01/09/2021 4:06:20 PM] - Payment has been processed successfully.
+[01/09/2021 4:06:20 PM] - Redirecting to results page "http://localhost/garage-rdv/stripe-checkout-result/"
+
+[01/09/2021 4:25:50 PM] - Payment processing started.
+[01/09/2021 4:25:50 PM] - Got product ID: 64
+[01/09/2021 4:25:50 PM] - Firing asp_ng_process_ipn_product_item_override filter.
+[01/09/2021 4:25:50 PM] - Firing asp_ng_process_ipn_payment_data_item_override filter.
+[01/09/2021 4:25:51 PM] - The transaction ID of this notification is: ch_1I7kG9LROvLnDaPILxMsoIoH
+[01/09/2021 4:25:51 PM] - Constructing checkout result and order data.
+[01/09/2021 4:25:51 PM] - Firing asp_ng_payment_completed filter.
+[01/09/2021 4:25:51 PM] - Firing asp_ng_payment_completed_update_pi filter.
+[01/09/2021 4:25:51 PM] - Firing asp_stripe_payment_completed action.
+[01/09/2021 4:25:51 PM] - Notification email sent to buyer: kofi@hotmail.com, from email address used:  <sales@your-domain.com>
+[01/09/2021 4:25:51 PM] - Payment has been processed successfully.
+[01/09/2021 4:25:51 PM] - Redirecting to results page "http://localhost/garage-rdv/stripe-checkout-result/"
+
+[01/09/2021 4:32:27 PM] - Payment processing started.
+[01/09/2021 4:32:27 PM] - Got product ID: 64
+[01/09/2021 4:32:27 PM] - Firing asp_ng_process_ipn_product_item_override filter.
+[01/09/2021 4:32:27 PM] - Firing asp_ng_process_ipn_payment_data_item_override filter.
+[01/09/2021 4:32:28 PM] - The transaction ID of this notification is: ch_1I7kMYLROvLnDaPIH2FIxIKG
+[01/09/2021 4:32:28 PM] - Constructing checkout result and order data.
+[01/09/2021 4:32:28 PM] - Firing asp_ng_payment_completed filter.
+[01/09/2021 4:32:28 PM] - Firing asp_ng_payment_completed_update_pi filter.
+[01/09/2021 4:32:28 PM] - Firing asp_stripe_payment_completed action.
+[01/09/2021 4:32:28 PM] - Notification email sent to buyer: js@mail.com, from email address used:  <sales@your-domain.com>
+[01/09/2021 4:32:28 PM] - Payment has been processed successfully.
+[01/09/2021 4:32:28 PM] - Redirecting to results page "http://localhost/garage-rdv/stripe-checkout-result/"
+
+[01/09/2021 5:48:46 PM] - Payment processing started.
+[01/09/2021 5:48:46 PM] - Got product ID: 64
+[01/09/2021 5:48:46 PM] - Firing asp_ng_process_ipn_product_item_override filter.
+[01/09/2021 5:48:46 PM] - Firing asp_ng_process_ipn_payment_data_item_override filter.
+[01/09/2021 5:48:46 PM] - The transaction ID of this notification is: ch_1I7lYPLROvLnDaPIxiUKiijz
+[01/09/2021 5:48:46 PM] - Constructing checkout result and order data.
+[01/09/2021 5:48:46 PM] - Firing asp_ng_payment_completed filter.
+[01/09/2021 5:48:46 PM] - Firing asp_ng_payment_completed_update_pi filter.
+[01/09/2021 5:48:47 PM] - Firing asp_stripe_payment_completed action.
+[01/09/2021 5:48:47 PM] - Notification email sent to buyer: kofi@hotmail.com, from email address used:  <sales@your-domain.com>
+[01/09/2021 5:48:47 PM] - Payment has been processed successfully.
+[01/09/2021 5:48:47 PM] - Redirecting to results page "http://localhost/garage-rdv/stripe-checkout-result/"
+
+[01/09/2021 6:59:49 PM] - Payment processing started.
+[01/09/2021 6:59:49 PM] - Got product ID: 64
+[01/09/2021 6:59:49 PM] - Firing asp_ng_process_ipn_product_item_override filter.
+[01/09/2021 6:59:49 PM] - Firing asp_ng_process_ipn_payment_data_item_override filter.
+[01/09/2021 6:59:49 PM] - The transaction ID of this notification is: ch_1I7mf9LROvLnDaPIChqqemv2
+[01/09/2021 6:59:49 PM] - Constructing checkout result and order data.
+[01/09/2021 6:59:49 PM] - Firing asp_ng_payment_completed filter.
+[01/09/2021 6:59:49 PM] - Firing asp_ng_payment_completed_update_pi filter.
+[01/09/2021 6:59:49 PM] - Firing asp_stripe_payment_completed action.
+[01/09/2021 6:59:49 PM] - Notification email sent to buyer: kofi@hotmail.com, from email address used:  <sales@your-domain.com>
+[01/09/2021 6:59:49 PM] - Payment has been processed successfully.
+[01/09/2021 6:59:49 PM] - Redirecting to results page "http://localhost/garage-rdv/stripe-checkout-result/"
+
+[01/11/2021 10:38:53 AM] - Payment processing started.
+[01/11/2021 10:38:53 AM] - Got product ID: 64
+[01/11/2021 10:38:53 AM] - Firing asp_ng_process_ipn_product_item_override filter.
+[01/11/2021 10:38:53 AM] - Firing asp_ng_process_ipn_payment_data_item_override filter.
+[01/11/2021 10:38:54 AM] - The transaction ID of this notification is: ch_1I8NnULROvLnDaPI9z9BgeTC
+[01/11/2021 10:38:54 AM] - Constructing checkout result and order data.
+[01/11/2021 10:38:54 AM] - Firing asp_ng_payment_completed filter.
+[01/11/2021 10:38:54 AM] - Firing asp_ng_payment_completed_update_pi filter.
+[01/11/2021 10:38:54 AM] - Firing asp_stripe_payment_completed action.
+[01/11/2021 10:38:54 AM] - Notification email sent to buyer: kofi@hotmail.com, from email address used:  <sales@your-domain.com>
+[01/11/2021 10:38:54 AM] - Payment has been processed successfully.
+[01/11/2021 10:38:54 AM] - Redirecting to results page "http://localhost/garage-rdv/stripe-checkout-result/"
+
